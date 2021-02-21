@@ -1,0 +1,14 @@
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\bin\Debug\netcoreapp3.1\BasketballTeamsApi.Service.deps.json
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\bin\Debug\netcoreapp3.1\BasketballTeamsApi.Service.dll
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\bin\Debug\netcoreapp3.1\BasketballTeamsApi.Service.pdb
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\bin\Debug\netcoreapp3.1\BasketballTeamsApi.Core.dll
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\bin\Debug\netcoreapp3.1\BasketballTeamsApi.Data.dll
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\bin\Debug\netcoreapp3.1\BasketballTeamsApi.Core.pdb
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\bin\Debug\netcoreapp3.1\BasketballTeamsApi.Data.pdb
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\obj\Debug\netcoreapp3.1\BasketballTeamsApi.Service.csprojAssemblyReference.cache
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\obj\Debug\netcoreapp3.1\BasketballTeamsApi.Service.AssemblyInfoInputs.cache
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\obj\Debug\netcoreapp3.1\BasketballTeamsApi.Service.AssemblyInfo.cs
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\obj\Debug\netcoreapp3.1\BasketballTeamsApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\obj\Debug\netcoreapp3.1\BasketballTeamsApi.Service.csproj.CopyComplete
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\obj\Debug\netcoreapp3.1\BasketballTeamsApi.Service.dll
+C:\Users\erent\source\repos\BasketballTeamsApi\BasketballTeamsApi.Service\obj\Debug\netcoreapp3.1\BasketballTeamsApi.Service.pdb

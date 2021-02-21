@@ -1,0 +1,302 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi\\BasketballTeamsApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BaskeballTeamsApi.Core\\BasketballTeamsApi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BaskeballTeamsApi.Core\\BasketballTeamsApi.Core.csproj",
+        "projectName": "BasketballTeamsApi.Core",
+        "projectPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BaskeballTeamsApi.Core\\BasketballTeamsApi.Core.csproj",
+        "packagesPath": "C:\\Users\\erent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BaskeballTeamsApi.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Data\\BasketballTeamsApi.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Data\\BasketballTeamsApi.Data.csproj",
+        "projectName": "BasketballTeamsApi.Data",
+        "projectPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Data\\BasketballTeamsApi.Data.csproj",
+        "packagesPath": "C:\\Users\\erent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BaskeballTeamsApi.Core\\BasketballTeamsApi.Core.csproj": {
+                "projectPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BaskeballTeamsApi.Core\\BasketballTeamsApi.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Service\\BasketballTeamsApi.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Service\\BasketballTeamsApi.Service.csproj",
+        "projectName": "BasketballTeamsApi.Service",
+        "projectPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Service\\BasketballTeamsApi.Service.csproj",
+        "packagesPath": "C:\\Users\\erent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BaskeballTeamsApi.Core\\BasketballTeamsApi.Core.csproj": {
+                "projectPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BaskeballTeamsApi.Core\\BasketballTeamsApi.Core.csproj"
+              },
+              "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Data\\BasketballTeamsApi.Data.csproj": {
+                "projectPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Data\\BasketballTeamsApi.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi\\BasketballTeamsApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi\\BasketballTeamsApi.csproj",
+        "projectName": "BasketballTeamsApi",
+        "projectPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi\\BasketballTeamsApi.csproj",
+        "packagesPath": "C:\\Users\\erent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\erent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BaskeballTeamsApi.Core\\BasketballTeamsApi.Core.csproj": {
+                "projectPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BaskeballTeamsApi.Core\\BasketballTeamsApi.Core.csproj"
+              },
+              "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Data\\BasketballTeamsApi.Data.csproj": {
+                "projectPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Data\\BasketballTeamsApi.Data.csproj"
+              },
+              "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Service\\BasketballTeamsApi.Service.csproj": {
+                "projectPath": "C:\\Users\\erent\\source\\repos\\BasketballTeamsApi\\BasketballTeamsApi.Service\\BasketballTeamsApi.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
